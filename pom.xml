@@ -22,8 +22,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-</project>
-<distributionManagement> 
+	<distributionManagement> 
 		<snapshotRepository>
 		<id>deploymentRepo</id>
 		<name>Internal Releases</name>
@@ -31,3 +30,5 @@
 	</snapshotRepository>
 	
 </distributionManagement>
+</project>
+
